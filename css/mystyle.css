@@ -103,10 +103,7 @@ div.title {
 	min-height: 100px;
 	width: 100%;
 	 background-color:darkturquoise;
-	 
-	 /* background-color: black; */
 	margin:auto	
-	/* border:4px solid darkturquoise; */	
 }
 
 .sub-title{
@@ -182,4 +179,12 @@ div.title {
 
 	height: 40px;
     margin: 40px 0px 0px 0px;
+}
+
+/* page3 */
+#project-panel {	
+	min-height: 100px;
+	width: 100%;
+	 background-color:darkturquoise;
+	margin:auto	
 }
